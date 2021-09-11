@@ -79,3 +79,7 @@ public class Coin {
 ### **English:** ###
 
 + [EPAM English Result:](https://examinator.epam.com/Main/PersonalAssignments/189699) A1 (I try to improve my knowledge of English )
+  
+***
+[Copyright 2021 Denis Demkov](https://www.linkedin.com/in/denis-demkov-4933161b7/)
+
